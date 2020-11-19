@@ -1,0 +1,300 @@
+<!-- Videos Section -->
+        <!-- Videos Section / Head -->
+
+        <section id="training">
+            <div class="container-fluid padding">
+                <div class="row welcome text-center">
+                    <div class="col-12">
+                        <h1 class="display-4">Our Training Sessions</h1>
+                    </div>
+                    <hr>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- Videos Section / Images Background / Button Image / Link to Modal Video -->
+            <div class="video-box">
+                <div class="container-fluid">
+                <div class="row flex-row flex-nowrap">
+                    <div class="col-xs-3">
+                        <div class="card-a">
+                            <div class="card-a-item">
+                            <div class="card-a-img-background" style="background-image:url(img/team1.png)"></div>
+                            <div class="videobtn">
+                                    <img src="img/video-btn.png" class="video-btn" data-toggle="modal" data-target="#play-video-1">
+                            </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xs-3">
+                        <div class="card-a">
+                            <div class="card-a-item">
+                            <div class="card-a-img-background" style="background-image:url(img/team1.png)"></div>
+                            <div class="videobtn">
+                                    <img src="img/video-btn.png" class="video-btn" data-toggle="modal" data-target="#play-video-2">
+                                </div>
+                             </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xs-3">
+                        <div class="card-a">
+                            <div class="card-a-item">
+                            <div class="card-a-img-background" style="background-image:url(img/team1.png)"></div>
+                            <div class="videobtn">
+                                    <img src="img/video-btn.png" class="video-btn" data-toggle="modal" data-target="#play-video-3">
+                                </div>
+                             </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-xs-3">
+                        <div class="card-a">
+                            <div class="card-a-item">
+                            <div class="card-a-img-background" style="background-image:url(img/team1.png)"></div>
+                            <div class="videobtn">
+                                    <img src="img/video-btn.png" class="video-btn" data-toggle="modal" data-target="#play-video-4">
+                                </div>
+                             </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-xs-3">
+                        <div class="card-a">
+                            <div class="card-a-item">
+                            <div class="card-a-img-background" style="background-image:url(img/team1.png)"></div>
+                            <div class="videobtn">
+                                    <img src="img/video-btn.png" class="video-btn" data-toggle="modal" data-target="#play-video-5">
+                                </div>
+                             </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-xs-3">
+                        <div class="card-a">
+                            <div class="card-a-item">
+                            <div class="card-a-img-background" style="background-image:url(img/team1.png)"></div>
+                            <div class="videobtn">
+                                    <img src="img/video-btn.png" class="video-btn" data-toggle="modal" data-target="#play-video-6">
+                                </div>
+                             </div>
+                        </div>
+                    </div>
+
+                </div>
+                </div>
+            </div>
+           
+            <!-- Videos Section / Modal Videos -->
+
+            <div class="modal fade" id="play-video-1">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <video width="100%" controls src="videos/video1.mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="play-video-2">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <video width="100%" controls src="videos/video2.mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="play-video-3">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <video width="100%" controls src="videos/video3.mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="play-video-4">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <video width="100%" controls src="videos/video4.mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="play-video-5">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <video width="100%" controls src="videos/video4.mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="play-video-6">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <video width="100%" controls src="videos/video4.mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+
+
+            <!-- Videos Section / Collapse button -->
+
+            <button type="button" class="collapsible">Guard Position Videos</button>
+            <div class="content">
+            <!-- Videos Section / Images Background / Button Image / Link to Modal Video -->
+            <div class="video-box">
+                    <div class="container-fluid">
+                    <div class="row flex-row flex-nowrap">
+                        <div class="col-xs-3">
+                            <div class="card-a">
+                                <div class="card-a-item">
+                                <div class="card-a-img-background" style="background-image:url(img/team1.png)"></div>
+                                <div class="videobtn">
+                                        <img src="img/video-btn.png" class="video-btn" data-toggle="modal" data-target="#play-video-7">
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-3">
+                            <div class="card-a">
+                                <div class="card-a-item">
+                                <div class="card-a-img-background" style="background-image:url(img/team1.png)"></div>
+                                <div class="videobtn">
+                                        <img src="img/video-btn.png" class="video-btn" data-toggle="modal" data-target="#play-video-8">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-xs-3">
+                            <div class="card-a">
+                                <div class="card-a-item">
+                                <div class="card-a-img-background" style="background-image:url(img/team1.png)"></div>
+                                <div class="videobtn">
+                                        <img src="img/video-btn.png" class="video-btn" data-toggle="modal" data-target="#play-video-9">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-xs-3">
+                            <div class="card-a">
+                                <div class="card-a-item">
+                                <div class="card-a-img-background" style="background-image:url(img/team1.png)"></div>
+                                <div class="videobtn">
+                                        <img src="img/video-btn.png" class="video-btn" data-toggle="modal" data-target="#play-video-10">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-xs-3">
+                            <div class="card-a">
+                                <div class="card-a-item">
+                                <div class="card-a-img-background" style="background-image:url(img/team1.png)"></div>
+                                <div class="videobtn">
+                                        <img src="img/video-btn.png" class="video-btn" data-toggle="modal" data-target="#play-video-11">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-xs-3">
+                            <div class="card-a">
+                                <div class="card-a-item">
+                                <div class="card-a-img-background" style="background-image:url(img/team1.png)"></div>
+                                <div class="videobtn">
+                                        <img src="img/video-btn.png" class="video-btn" data-toggle="modal" data-target="#play-video-12">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    </div>
+            </div>
+
+            <!-- Videos Section / Modal Videos -->
+
+            <div class="modal fade" id="play-video-7">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <video width="100%" controls src="videos/video1.mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="play-video-8">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <video width="100%" controls src="videos/video2.mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="play-video-9">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <video width="100%" controls src="videos/video3.mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="play-video-10">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <video width="100%" controls src="videos/video4.mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="play-video-11">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <video width="100%" controls src="videos/video4.mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="modal fade" id="play-video-12">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <video width="100%" controls src="videos/video4.mp4"></video>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> 
+        
